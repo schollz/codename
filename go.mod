@@ -1,3 +1,3 @@
-module github.com/lucasepe/codename
+module github.com/schollz/codename
 
 go 1.16
